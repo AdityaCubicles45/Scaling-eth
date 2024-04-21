@@ -1,6 +1,6 @@
 ## This Project is Live:
 
-Link: [https://scaling-fnf8whnai-adityacubicles45s-projects.vercel.app/marketplace]
+Link: [https://scaling-eth-hazel.vercel.app/]
 <br>
 Chiado Gnosis Deployment: [https://gnosis-chiado.blockscout.com/address/0x2E1e9Ad7020350eF362173161eDB8af8E8260EAb] (targetting for Build consumer focused products on Gnosis Chain for web3 users track)
 
