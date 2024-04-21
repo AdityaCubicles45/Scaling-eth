@@ -18,7 +18,7 @@ Tradier revolutionizes the world of trading through its unique NFT collection, l
 
 ## How Engineerians developed Tradier 
 
-The frontend utilizes NextJs and ReactJs, the backend is powered by ethers, Thirdweb, OpenAI, and Coinmarketcap. The contracts are written in solidity and powered by chainlink functions, automation, and data feeds. The contracts are hosted on the avalanche C-chain.
+The frontend utilizes NextJs and ReactJs, the backend is powered by ethers, Thirdweb, OpenAI, and Coinmarketcap. The contracts are written in solidity and powered by chainlink functions, automation, and data feeds. The contracts are hosted on the avalanche C-chain an gnosis chiado.
 
 ## What we learned
 Through our journey in developing this project, we've gained valuable insights into the critical importance of project planning and early problem mitigation in the infrastructure phase. We've learned that addressing potential issues proactively is crucial, as oversights can lead to significant challenges, especially when the project infrastructure is not functioning optimally. This experience has not only enhanced our technical skills but also reinforced the value of foresight and strategic planning in the complex world of tech development.
